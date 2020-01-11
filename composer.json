@@ -1,0 +1,44 @@
+{
+  "name": "xkojimedia/laravel-altair-graphql",
+  "description": "Easily integrate Altair GraphQL Client into your Laravel project",
+  "keywords": [
+    "laravel",
+    "graphql",
+    "altair-graphql",
+    "graphiql"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Samuel Imolorhe",
+      "email": "hello@sirmuel.design"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "illuminate/console": "5.5.* || 5.6.* || 5.7.* || 5.8.* || ^6.0",
+    "illuminate/contracts": "5.5.* || 5.6.* || 5.7.* || 5.8.* || ^6.0",
+    "illuminate/support": "5.5.* || 5.6.* || 5.7.* || 5.8.* || ^6.0"
+  },
+  "require-dev": {
+    "laravel/lumen-framework": "5.5.* || 5.6.* || 5.7.* || 5.8.* || ^6.0",
+    "localheinz/composer-normalize": "^1.3"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "XKojiMedia\\AltairGraphQL\\AltairGraphQLServiceProvider"
+      ]
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "XKojiMedia\\AltairGraphQL\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
