@@ -5,7 +5,7 @@ Easily integrate [Altair GraphQL Client](https://altair.sirmuel.design/) into yo
 [![GitHub license](https://img.shields.io/github/license/xkojimedia/laravel-altair-graphql.svg)](https://github.com/xkojimedia/laravel-altair-graphql/blob/master/LICENSE)
 [![Packagist](https://img.shields.io/packagist/v/xkojimedia/laravel-altair-graphql.svg)](https://packagist.org/packages/xkojimedia/laravel-altair-graphql)
 [![Packagist](https://img.shields.io/packagist/dt/xkojimedia/laravel-altair-graphql.svg)](https://packagist.org/packages/xkojimedia/laravel-altair-graphql)
-[![StyleCI](https://github.styleci.io/repos/233300751/shield?branch=master)](https://github.styleci.io/repos/137498251)
+[![StyleCI](https://github.styleci.io/repos/233300751/shield?branch=master)](https://github.styleci.io/repos/233300751)
 
 ![altair-graphql](https://i.imgur.com/h63OBPA.png)
 
