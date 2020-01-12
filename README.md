@@ -11,8 +11,9 @@ Easily integrate [Altair GraphQL Client](https://altair.sirmuel.design/) into yo
 
 > **Please note**: This is not a GraphQL Server implementation, only a UI for testing and exploring your schema. For the server component we recommend [nuwave/lighthouse](https://github.com/nuwave/lighthouse).
 
+---
 
-**_DISCLAIMER: This is a port of [laravel-graphql-playground](https://github.com/mll-lab/laravel-graphql-playground) from [@mll-lab](https://github.com/mll-lab), but for [Altair GraphQL Client](https://altair.sirmuel.design/)._**
+**_DISCLAIMER: This is a port of [laravel-graphql-playground](https://github.com/mll-lab/laravel-graphql-playground) from [@spawnia](https://github.com/spawnia) of [mll-lab](https://github.com/mll-lab), but for [Altair GraphQL Client](https://altair.sirmuel.design/)._**
 
 ## Installation
 
